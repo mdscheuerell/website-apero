@@ -1,13 +1,16 @@
 ---
 title: Mark Scheuerell
-subtitle_1: Assistant Unit Leader
-subtitle_2: U.S. Geological Survey Washington Cooperative Fish and Wildlife Research Unit
-date: MARCH
+position_aul: Assistant Unit Leader - Fisheries
+location_usgs: U.S. Geological Survey
+location_wacfwru: Washington Cooperative Fish and Wildlife Research Unit
+position_prof: Associate Professor
+location_safs: School of Aquatic and Fishery Sciences
+location_uw: University of Washington
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description:
-image_left: fals
+image_left: false
 images:
 - img/Scheuerell_headshot_square.jpeg
 show_action_link: true
