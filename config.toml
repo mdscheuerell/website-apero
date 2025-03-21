@@ -1,7 +1,7 @@
 baseURL = "https://faculty.washington.edu/scheuerl/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "home"
+title = "MDS"
 author = "Mark Scheuerell"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -33,13 +33,13 @@ enableEmoji = true
   orgLocal = ""
   description = "Mark Scheuerell's academic website."
   favicon = "/img/favicon.ico"
-  logo = "/img/AEL_logo.png"
+  logo = ""
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
   socialInHeader = false
-  socialInFooter = true
+  socialInFooter = false
   # Default image for social sharing and search engines. 
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/Scheuerell_headshot_square.png"
@@ -49,7 +49,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "forest"
+  theme = "earth"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -63,7 +63,7 @@ enableEmoji = true
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Atkinson Hyperlegible"
-  customheadingFontFamily = "Fraunces"
+  customheadingFontFamily = ""
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "sans-serif"
@@ -108,23 +108,23 @@ enableEmoji = true
       icon_pack = "fas"
       url       = "mailto:scheuerl@uw.edu"
   [[params.social]]
+      icon      = "bluesky blue" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://bsky.app/profile/scheuerell.bsky.social"
+  [[params.social]]
       icon      = "github black" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mdscheuerell"
   [[params.social]]
-      icon      = "bluesky" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://bsky.app/profile/scheuerell.bsky.social"
-  [[params.social]]
-      icon      = "google-scholar"
+      icon      = "google-scholar orange"
       icon_pack = "ai"
       url       = "http://scholar.google.com/citations?user=uwu1QikAAAAJ&hl=en&oi=ao"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
+      icon      = "orcid green" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "http://orcid.org/0000-0002-8284-1254"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
+      icon      = "impactstory red" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://impactstory.org/u/0000-0002-8284-1254"
   [[params.social]]
