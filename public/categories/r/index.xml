@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on MDS</title>
+    <link>https://faculty.washington.edu/scheuerl/categories/r/</link>
+    <description>Recent content in R on MDS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://faculty.washington.edu/scheuerl/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A first post</title>
+      <link>https://faculty.washington.edu/scheuerl/blog/spoonful-series/01-spoonful/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/blog/spoonful-series/01-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.&#xA;beginning middle end </description>
+    </item>
+    <item>
+      <title>Time series analysis</title>
+      <link>https://faculty.washington.edu/scheuerl/research/time_series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/research/time_series/</guid>
+      <description>I work alongside a wide variety of people to help them analyze their data and better understand the underlying drivers of temporal variability. Projects include:&#xA;Finding common patterns in stream temperature, nutrient concentration, and fish productivity across multiple streams, rivers, lakes, and oceans;&#xA;Estimating the strength and direction of species interactions in aquatic food webs;&#xA;Analyzing risks and benefits of ecological portfolios&#xA;Much of this work is done in collaboration with Elizabeth &amp;ldquo;Eli&amp;rdquo; Holmes (NOAA) and Eric Ward (NOAA).</description>
+    </item>
+    <item>
+      <title>A second post</title>
+      <link>https://faculty.washington.edu/scheuerl/blog/spoonful-series/02-spoonful/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/blog/spoonful-series/02-spoonful/</guid>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /scheuerl/blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title>Food web interactions</title>
+      <link>https://faculty.washington.edu/scheuerl/research/food_webs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/research/food_webs/</guid>
+      <description>Through a combination of empirical data collection and statistical modeling, our group is working to understand the flows of energy and nutrients through aquatic food webs. Examples include nearshore fishes in Puget Sound and non-native fishes in Lakes Sammamish and Washington.</description>
+    </item>
+    <item>
+      <title>A third post</title>
+      <link>https://faculty.washington.edu/scheuerl/blog/spoonful-series/03-spoonful/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/blog/spoonful-series/03-spoonful/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /scheuerl/blog/spoonful-series/03-spoonful/featured-photo.</description>
+    </item>
+    <item>
+      <title>Species status assessments</title>
+      <link>https://faculty.washington.edu/scheuerl/research/ssa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/research/ssa/</guid>
+      <description>Downward trends in the size and numbers of fishes in the U.S. and Canada have been reported for various species and stocks for over 40 years. However, the patterns are inconsistent among regions and species, in part because estimating these trends has been complicated by disparate data from which to draw inferences, such as varying sampling methods and missing years and locations owing to limits on personnel and funding. Unfortunately, this is often the case for species listed under the Endangered Species Act (ESA) for whom it is particularly important to understand how changes in size and abundance relate to their at-risk status.</description>
+    </item>
+    <item>
+      <title>Tachyons for Style</title>
+      <link>https://faculty.washington.edu/scheuerl/project/giraffes/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/project/giraffes/</guid>
+      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort. Because Speed Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+    </item>
+    <item>
+      <title>Palmer Penguins</title>
+      <link>https://faculty.washington.edu/scheuerl/project/penguins/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/project/penguins/</guid>
+      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.” — Chris House, A Complete Guide to CSS Grid Layout 1&#xA;Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips. Most times, while fighting with floats and widths of content and sidebars or just basically trying to get something beside something else without using a stupid TABLE.</description>
+    </item>
+    <item>
+      <title>Bakeoff</title>
+      <link>https://faculty.washington.edu/scheuerl/project/bakeoff/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/project/bakeoff/</guid>
+      <description>Formspree makes it easy to receive submissions from HTML forms on your static website. Functional Form This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used. Please use your actual email address.</description>
+    </item>
+  </channel>
+</rss>

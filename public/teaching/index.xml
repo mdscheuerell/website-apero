@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on MDS</title>
+    <link>https://faculty.washington.edu/scheuerl/teaching/</link>
+    <description>Recent content in Teaching on MDS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://faculty.washington.edu/scheuerl/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Practices in Environmental Data Science</title>
+      <link>https://faculty.washington.edu/scheuerl/teaching/fish549/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/teaching/fish549/</guid>
+      <description>Offered Winter quarter of odd years&#xA;Course overview This course will provide an overview of some data science tools and best practices that can be used to create transparent and reproducible workflows when working with environmental data. Students will learn how to translate raw data from field and lab studies into databases and “tidy” digital formats, which can then be used for plotting, statistical analyses, etc. Students will learn how to track the history of file changes (version control), collaborate online with others, and generate “recipes” for re-creating one’s work.</description>
+    </item>
+    <item>
+      <title>Applied Time Series Analysis in Fisheries and Environmental Sciences</title>
+      <link>https://faculty.washington.edu/scheuerl/teaching/fish550/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/teaching/fish550/</guid>
+      <description>Co-instructors Eli Holmes &amp;amp; Eric Ward&#xA;Offered Spring quarter of odd years&#xA;Course overview This course is intended to give students an overview of the theory and practical aspects of fitting time series models to fisheries and environmental data. The course will cover topics ranging from autocorrelation and crosscorrelation, autoregressive (AR) and moving average (MA) models, univariate and multivariate state-space models, and estimating model parameters. This course also covers various aspects of assessing model performance and evaluating model diagnostics.</description>
+    </item>
+    <item>
+      <title>Analysis of Ecological and Environmental Data</title>
+      <link>https://faculty.washington.edu/scheuerl/teaching/qerm514/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/teaching/qerm514/</guid>
+      <description>Offered Spring quarter of even years&#xA;Course overview This course introduces students to a large class of statistical models commonly used for analyses in ecology and environmental science. These include simple linear models, such as analysis of variance (ANOVA) and regression models, along with Generalized Linear Models (GLMs) that assume non-normal error distributions (e.g., logistic and Poisson regression). Students will learn to distinguish the difference between fixed and random effects, and how to implement them in mixed-effects models such as Generalized Linear Mixed Models (GLMMs).</description>
+    </item>
+    <item>
+      <title>Proposal Writing and Professional Development for Graduate Students</title>
+      <link>https://faculty.washington.edu/scheuerl/teaching/fish521/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/teaching/fish521/</guid>
+      <description>Offered Winter quarter&#xA;Course overview This class was originally designed to help students prepare research proposals. It has undergone various modifications since its inception, as different instructors have been placed in charge of it, and as the needs of students have changed. The course still includes the development of scientific ideas into coherent proposals, but it now also addresses other forms of communication, and aspects of professional development to help graduate students during and after their time at the University of Washington.</description>
+    </item>
+  </channel>
+</rss>

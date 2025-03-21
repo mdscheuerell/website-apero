@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time Series on MDS</title>
+    <link>https://faculty.washington.edu/scheuerl/categories/time-series/</link>
+    <description>Recent content in Time Series on MDS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://faculty.washington.edu/scheuerl/categories/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time series analysis</title>
+      <link>https://faculty.washington.edu/scheuerl/research/time_series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/research/time_series/</guid>
+      <description>I work alongside a wide variety of people to help them analyze their data and better understand the underlying drivers of temporal variability. Projects include:&#xA;Finding common patterns in stream temperature, nutrient concentration, and fish productivity across multiple streams, rivers, lakes, and oceans;&#xA;Estimating the strength and direction of species interactions in aquatic food webs;&#xA;Analyzing risks and benefits of ecological portfolios&#xA;Much of this work is done in collaboration with Elizabeth &amp;ldquo;Eli&amp;rdquo; Holmes (NOAA) and Eric Ward (NOAA).</description>
+    </item>
+  </channel>
+</rss>

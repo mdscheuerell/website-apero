@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>At-Risk Species on MDS</title>
+    <link>https://faculty.washington.edu/scheuerl/categories/at-risk-species/</link>
+    <description>Recent content in At-Risk Species on MDS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://faculty.washington.edu/scheuerl/categories/at-risk-species/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Species status assessments</title>
+      <link>https://faculty.washington.edu/scheuerl/research/ssa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/research/ssa/</guid>
+      <description>Downward trends in the size and numbers of fishes in the U.S. and Canada have been reported for various species and stocks for over 40 years. However, the patterns are inconsistent among regions and species, in part because estimating these trends has been complicated by disparate data from which to draw inferences, such as varying sampling methods and missing years and locations owing to limits on personnel and funding. Unfortunately, this is often the case for species listed under the Endangered Species Act (ESA) for whom it is particularly important to understand how changes in size and abundance relate to their at-risk status.</description>
+    </item>
+  </channel>
+</rss>

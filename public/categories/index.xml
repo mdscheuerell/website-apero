@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on MDS</title>
+    <link>https://faculty.washington.edu/scheuerl/categories/</link>
+    <description>Recent content in Categories on MDS</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://faculty.washington.edu/scheuerl/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theme Features</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/theme-features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/theme-features/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evergreen</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/evergreen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/evergreen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/workshop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/r/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meetup</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/meetup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Package</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/package/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/package/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>At-Risk Species</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/at-risk-species/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/at-risk-species/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food Webs</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/food-webs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/food-webs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Time Series</title>
+      <link>https://faculty.washington.edu/scheuerl/categories/time-series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://faculty.washington.edu/scheuerl/categories/time-series/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
