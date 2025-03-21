@@ -10,10 +10,10 @@
         {{ with .Params.subtitle_2 }}<h2 class="f5 fw7 mt0 mb4 ttu tracked">{{ . }}</h2>{{ end }}
         {{ with .Params.subtitle_3 }}<h2 class="f5 fw7 mt0 mb4 ttu tracked">{{ . }}</h2>{{ end }}
         --->
-        <h2 class="f5 fw7 mt0 mb2 ttu tracked">{{ .Params.position_aul }}</h2>
+        <h2 class="f5 fw7 mt0 mb3 ttu tracked">{{ .Params.position_aul }}</h2>
         <h2 class="f5 fw7 mt2 mb1 ttu tracked">{{ .Params.location_usgs }}</h2>
         <h2 class="f5 fw7 mt0 mb4 ttu tracked">{{ .Params.location_wacfwru }}</h2>
-        <h2 class="f5 fw7 mt0 mb2 ttu tracked">{{ .Params.position_prof }}</h2>
+        <h2 class="f5 fw7 mt0 mb3 ttu tracked">{{ .Params.position_prof }}</h2>
         <h2 class="f5 fw7 mt2 mb1 ttu tracked">{{ .Params.location_safs }}</h2>
         <h2 class="f5 fw7 mt0 mb4 ttu tracked">{{ .Params.location_uw }}</h2>
        {{ if .Params.show_social_links }}{{ partial "shared/social-links.html" . }}{{ end }}
